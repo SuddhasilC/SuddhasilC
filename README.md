@@ -81,3 +81,8 @@
   <a href="mailto:csuddhasil@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/> 
   </a> 
 </div>
+
+<div align=center>            
+   <img align="center" alt="Snake" width=100% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/github-snake.svg" />
+   </a>
+</div>
