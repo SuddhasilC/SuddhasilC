@@ -13,7 +13,7 @@
 
 ### 🧠 About Me
 
-- 🏢 I'm a **Full Stack Developer** experienced in building end-to-end web applications using **React**, **Node.js**, **PostgreSQL**, and **MongoDB**.
+- 🏢 I'm a **Full Stack Developer** experienced in building end-to-end web applications using **React**, **Node.js**, **PostgreSQL** and **MongoDB**.
 - 🤖 Currently exploring the intersection of **AI and Web Development** — building AI-powered web tools and chat applications.
 - 🧰 Love crafting clean, maintainable, and scalable code.
 - 🌐 Interested in cloud platforms and deploying full-stack apps in production.
@@ -81,8 +81,3 @@
   <a href="mailto:csuddhasil@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/> 
   </a> 
 </div>
-
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=100&section=footer" width="100%"/>
-</p>
